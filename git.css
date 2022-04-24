@@ -1,0 +1,33 @@
+#container{
+    font-size: 150px;
+    
+    text-align: center;
+    
+}
+.row{
+    display: flex;
+    background-color: aqua;
+    margin: 100px;
+    padding: 75px;
+    padding-left: 65px;
+    justify-content: space-evenly;
+    
+} 
+    
+
+#buuy{
+    display: flex;
+    background-color: rgb(245, 147, 136);
+    justify-content: space-evenly;
+    margin: 100px;
+    padding: 70px;
+    
+}
+#su{
+    display: flex;
+    background-color: azure;
+    justify-content: space-evenly;
+    margin: 100px;
+    padding: 70px;
+}
+
